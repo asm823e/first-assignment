@@ -68,7 +68,7 @@ i{
 .plans{
     display: flex;
     justify-content: space-around;
-    margin: 50px 200px 150px;
+    margin: 50px 250px 150px;
 }
 .skills{
     text-align: center;
@@ -81,4 +81,16 @@ i{
 .skill-text{
     font-size: 20px;
     color: #444343;
+}
+
+/* main part 3 */
+.part-3{
+    background-image: url(../images/gradient1.png) ,url(../images/watch.png);
+    background-blend-mode: multiply;
+    width: 1140px;
+    height: 301px;
+    margin: 0 250px;
+}
+.part3-items{
+    padding: 60px ;
 }
