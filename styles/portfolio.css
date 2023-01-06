@@ -33,3 +33,33 @@
     border-radius: 8px;
     border: 0;
 }
+
+/* main part 1 */
+.part-1{
+    display: flex;
+    margin: 120px 200px;
+}
+.photo{
+
+}
+.photo-text{
+    padding: 250px 200px 200px;
+}
+.text-title{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+#text-description{
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 25px;
+}
+.list-item{
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #444343;
+}
+i{
+    color: green;
+}
