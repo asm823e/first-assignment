@@ -39,9 +39,6 @@
     display: flex;
     margin: 120px 200px;
 }
-.photo{
-
-}
 .photo-text{
     padding: 250px 200px 200px;
 }
@@ -62,4 +59,26 @@
 }
 i{
     color: green;
+}
+
+/* main part 2 */
+.part2-title{
+    text-align: center;
+}
+.plans{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 200px 150px;
+}
+.skills{
+    text-align: center;
+}
+.skill-name{
+    font-weight: 700px;
+    font-size: 30px;
+    margin: 10px 0;
+}
+.skill-text{
+    font-size: 20px;
+    color: #444343;
 }
