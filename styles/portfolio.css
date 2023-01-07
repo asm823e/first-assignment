@@ -68,7 +68,7 @@ i{
 .plans{
     display: flex;
     justify-content: space-around;
-    margin: 50px 250px 150px;
+    margin: 50px 250px 100px;
 }
 .skills{
     text-align: center;
@@ -134,4 +134,22 @@ i{
     padding: 20px;
     border-radius: 8px;
     border: 0;
+}
+
+/* extra added */
+.extra{
+    /* background-color: black; */
+    margin-bottom: 100px;
+}
+.extra-items{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 50px 0;
+}
+.extra-description{
+    color: #444343;
+}
+.extra-text{
+    padding: 70px;
 }
